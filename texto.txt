@@ -1,0 +1,3 @@
+O arquivo de texto que você está lendo tem frequência de palavras.
+A frequência das palavras no arquivo é importante.
+Que frequência!
